@@ -1,0 +1,12 @@
+# basic options
+# this is a comment
+title: Geoffrey's test blog
+author: Kateregga
+email: kateregga1@gmail.com
+description: My first blog
+twitter_username: kateregga1
+github_username: kateregga1
+
+# Build settings
+markdown: kramdown
+theme: minima
